@@ -1,0 +1,42 @@
+/* html {
+    overflow-y: hidden; 
+} */
+
+/* .v-main__wrap {
+    border: 1px solid rgb(255, 218, 218);
+    height: 880px;
+} */
+
+.search-container {
+    position: relative;
+    /* max-width: 600px; */
+    margin: 0 auto;
+}
+  
+.history-dropdown {
+    position: absolute;
+    width: 100%;
+    z-index: 4;
+    margin-top: 4px;
+    max-height: 300px;
+    overflow-y: auto;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.v-application .ma-2 {
+    margin: 0px !important;
+    /* border:5px solid #000; */
+}
+
+.master-header tr th{
+    font-size:15px !important; 
+    background-color: #7899A5 !important; 
+    color: white !important; 
+    text-align: center !important;
+}
+
+.monitoring-header tr th{
+    background:rgb(84,110,122) !important; 
+    font-size:14px !important; 
+    color: white !important;
+}

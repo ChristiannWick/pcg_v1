@@ -40,7 +40,7 @@ $ cd Desktop
 3. Clone the source code on your desktop;
 
 ```bash
-$ git clone http://10.169.141.8:5050/KarlAngelo/spa_training.git
+$ git clone git@hrdapps65:rems/carte-pcg-v1.git
 ```
 
 4. Go inside the project folder;
